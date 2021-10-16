@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 
 # Welcome To My GitHub!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 ---
 
 ## What I'm Working On
@@ -86,3 +84,5 @@ Here are some ideas to get you started:
 <!-- [(313) 818-1688](sms:+13138181688) -->
 
 ---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
