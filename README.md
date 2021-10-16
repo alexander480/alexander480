@@ -44,19 +44,21 @@ Here are some ideas to get you started:
 - SwiftLint: Learning how to set up a custom style sheet.
 - SwiftUI: Just generally expanding my knowledge and experience with this framework.
 
+<!--
 ## 🤔 I’m looking for help with
 - GitHub Actions for iOS Developers.
+- Writing quality tests for complex API calls, especially for matching systems (that require two POSTs).
 - Finding useful Xcode extensions.
 - Figuring out what should be tested in iOS Apps.
-- Writing quality tests for complex API calls, especially for matching systems (that require two POSTs).
-
----
+-->
 
 ## ⚡ When i'm not coding, i'm probably...
 - Noodlin' around on the guitar.
 - Obsessing over 90's Hip-Hop/R&B.
 - Playing car soccer (a shame, i know).
 
+---
+ 
 ## 💬 Ask me about my freelancing services!
 - I provide Freelance iOS Development services for Start Ups.
 - I also provide Backend-Services services (Express/Node.JS Prefered), for iOS projects that require it.
@@ -64,5 +66,8 @@ Here are some ideas to get you started:
 - Absolutely love helping out fellow entreprenuers.
 
 ## 📫 How to reach me:
-- Send an email: [alexanderlester@deltavel.com](mailto:alexanderlester@deltavel.com?subject=Email+From+Github)
-- Shoot a text: [(313) 818-1688](http://sms:+13138181688)
+- Send an email: alexanderlester@deltavel.com
+- Shoot a text: (313) 818-1688
+
+<!-- [alexanderlester@deltavel.com](mailto:alexanderlester@deltavel.com?subject=Email+From+Github) -->
+<!-- [(313) 818-1688](sms:+13138181688) -->
