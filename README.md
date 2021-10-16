@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## What I'm Working On
 - [Pool](https://poolcarpool.com) - A carpooling app, aiming to improve daily/weekly campus commutes. 🚖
-- [Bubble Raps](https://apps.apple.com/us/app/bubble-raps/id1495742891) - A game to help improve your, or your child's, rhyming abilities (with tons of fun unlockables). 🎤
+- [Bubble Raps](https://apps.apple.com/us/app/bubble-raps/id1495742891) - A game to help improve you and your children's rhyming abilities (with tons of fun unlockables). 🎤
 - [Delta Vel](https://github.com/alexander480/Delta-Vel) - My company's freelance development portfolio app! (in progress). 💼
 - [ALExt](https://github.com/alexander480/ALExt) - A Swift Package full of all my favorite extensions. 🛠
 
