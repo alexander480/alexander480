@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 - Send an [email](mailto:alexanderlester@deltavel.com?subject=Email+From+Github) <!-- : alexanderlester@deltavel.com -->
-- Shoot a [text](sms:+13138181688) <!-- : [(313) 818-1688](sms:+13138181688) -->
+- Shoot a [text](tel:+13138181688) <!-- : [(313) 818-1688](sms:+13138181688) -->
 
 ---
 
