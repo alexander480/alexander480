@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 -->
 <!-- ### My Current Projects -->
 
----
+# Welcome To My GitHub!
 
-## 🔭 Currently Working On
+## What I'm Working On
 - [Pool](https://poolcarpool.com) - A carpooling app, aiming to improve daily/weekly campus commutes. 🚖
 - [Bubble Raps](https://apps.apple.com/us/app/bubble-raps/id1495742891) - A game to help improve your, or your child's, rhyming abilities (with tons of fun unlockables). 🎤
 - [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - An informational app, providing widgets to keep track of current vaccination rates. 💉
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [ALExt](https://github.com/alexander480/ALExt) - A Swift Package full of all my favorite extensions. 🛠
 
 <!-- ### Looking To Collaborate On -->
-## 👯 Looking To Collaborate
+## Looking To Collaborate On
 - [ALExt](https://github.com/alexander480/ALExt) - I would love to see what other extensions you folks find useful. Also need some help writing tests. (:
 - [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - but I would love to see what the Open-Source community could add to this app!
 
@@ -66,19 +66,21 @@ Here are some ideas to get you started:
  
 ---
 
-## 🛠 Freelancing Services
+## Freelance Services
 - I provide iOS Development Services for projects of any size (especially love start-ups).
 - Also provide Backend Development Services for projects that may require it.
 - Absolutely love helping out fellow entreprenuers.
 - Over 5 years of experience.
 
----
+
+## How To Reach Me
 
 [Send An Email](alexanderlester@deltavel.com)
 
 [View Portfolio](alexanderlester.deltavel.com)
 
 ---
+
 
 <!-- [alexanderlester@deltavel.com](mailto:alexanderlester@deltavel.com?subject=Email+From+Github) -->
 <!-- [(313) 818-1688](sms:+13138181688) -->
