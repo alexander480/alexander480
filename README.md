@@ -38,24 +38,28 @@ Here are some ideas to get you started:
 ## 👯 I’m looking to collaborate on
 - [ALExt](https://github.com/alexander480/ALExt) - I would love to see what other extensions you folks find useful. Also need some help writing tests. (:
 - [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - but I would love to see what the Open-Source community could add to this app!
-   
+
+
+<!--
 ## 🌱 I’m currently learning
 - GitHub Actions: Learning how to set up automatic Xcode builds.
 - SwiftLint: Learning how to set up a custom style sheet.
 - SwiftUI: Just generally expanding my knowledge and experience with this framework.
 
-<!--
+
 ## 🤔 I’m looking for help with
 - GitHub Actions for iOS Developers.
 - Writing quality tests for complex API calls, especially for matching systems (that require two POSTs).
 - Finding useful Xcode extensions.
 - Figuring out what should be tested in iOS Apps.
--->
+
 
 ## ⚡ When i'm not coding, i'm probably...
 - Noodlin' around on the guitar.
 - Obsessing over 90's Hip-Hop/R&B.
 - Playing car soccer (a shame, i know).
+
+-->
 
 ---
  
