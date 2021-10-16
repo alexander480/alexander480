@@ -1,5 +1,7 @@
 <!-- ### Hi there 👋 -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexander480)](https://git.io/streak-stats)
+
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
 <!-- ![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexander480&theme=graywhite&show_icons=true) -->
