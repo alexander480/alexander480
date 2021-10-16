@@ -63,15 +63,19 @@ Here are some ideas to get you started:
 
 ---
  
-## 💬 Ask me about my freelancing services!
-- I provide Freelance iOS Development services for Start Ups.
-- I also provide Backend-Services services (Express/Node.JS Prefered), for iOS projects that require it.
-- I have over 5 years of experience as an iOS Developer.
+## 💬 Ask me about freelancing!
+- I provide iOS Development Services for individuals and businesses of any size (especially love start-ups though).
+- Also provide Backend Development Services for projects that may require it.
+- Over 5 years of experience.
 - Absolutely love helping out fellow entreprenuers.
 
 ## 📫 How to reach me:
-- Send an email: alexanderlester@deltavel.com
-- Shoot a text: (313) 818-1688
+- Send an [email](mailto:alexanderlester@deltavel.com?subject=Email+From+Github) <!-- : alexanderlester@deltavel.com -->
+- Shoot a [text](sms:+13138181688) <!-- : [(313) 818-1688](sms:+13138181688) -->
+
+---
+
+Check out my [portfolio](https://alexanderlester.deltavel.com)
 
 <!-- [alexanderlester@deltavel.com](mailto:alexanderlester@deltavel.com?subject=Email+From+Github) -->
 <!-- [(313) 818-1688](sms:+13138181688) -->
