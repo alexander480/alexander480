@@ -30,18 +30,20 @@ Here are some ideas to get you started:
 
 # Welcome To My GitHub!
 
+---
+
 ## What I'm Working On
 - [Pool](https://poolcarpool.com) - A carpooling app, aiming to improve daily/weekly campus commutes. 🚖
 - [Bubble Raps](https://apps.apple.com/us/app/bubble-raps/id1495742891) - A game to help improve your, or your child's, rhyming abilities (with tons of fun unlockables). 🎤
-- [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - An informational app, providing widgets to keep track of current vaccination rates. 💉
-- [Delta Vel | Development Services](https://github.com/alexander480/Delta-Vel) - My company's freelance development portfolio! (in progress). 💼
+- [Delta Vel](https://github.com/alexander480/Delta-Vel) - My company's freelance development portfolio app! (in progress). 💼
 - [ALExt](https://github.com/alexander480/ALExt) - A Swift Package full of all my favorite extensions. 🛠
+
+<!-- - [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - An informational app, providing widgets to keep track of current vaccination rates. 💉 -->
 
 <!-- ### Looking To Collaborate On -->
 ## Looking To Collaborate On
 - [ALExt](https://github.com/alexander480/ALExt) - I would love to see what other extensions you folks find useful. Also need some help writing tests. (:
-- [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - but I would love to see what the Open-Source community could add to this app!
-
+- [Vaccine Widgets](https://github.com/alexander480/Vaccine-Widgets) - I would love to see what the Open-Source community could add to this app!
 
 <!--
 ## 🌱 I’m currently learning
@@ -67,11 +69,10 @@ Here are some ideas to get you started:
 ---
 
 ## Freelance Services
-- I provide iOS Development Services for projects of any size (especially love start-ups).
-- Also provide Backend Development Services for projects that may require it.
-- Absolutely love helping out fellow entreprenuers.
-- Over 5 years of experience.
-
+- I provide iOS Development Services for projects of any size.
+- Provide Backend Development Services for iOS projects that may require it.
+- Over five years of experience.
+- Extremely passionate about helping out fellow entreprenuers.
 
 ## How To Reach Me
 
@@ -79,8 +80,7 @@ Here are some ideas to get you started:
 
 [View Portfolio](alexanderlester.deltavel.com)
 
----
-
-
 <!-- [alexanderlester@deltavel.com](mailto:alexanderlester@deltavel.com?subject=Email+From+Github) -->
 <!-- [(313) 818-1688](sms:+13138181688) -->
+
+---
